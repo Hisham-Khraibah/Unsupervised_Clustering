@@ -1,7 +1,7 @@
 # mall_customer_clustering
 This app has been built using Streamlit and deployed with Streamlit Community Cloud.
 
-
+https://khra0005-unsupervised-clustering.streamlit.app/
 
 This application groups mall customers into different segments based on their characteristics using unsupervised machine learning (KMeans clustering). The goal is to help businesses understand customer behavior and improve marketing strategies.
 
@@ -74,6 +74,4 @@ requirements.txt
 ## Output
 - Trained model saved as:
   `models/Kmodel.pkl`
-- Scaler saved as:
-  `models/scaler.pkl`
 - Visualizations displayed during execution
