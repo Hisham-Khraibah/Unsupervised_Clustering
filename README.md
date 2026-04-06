@@ -36,6 +36,7 @@ These features are used to group customers into clusters.
   - Elbow Method (WCSS)
 
 ## Project Structure
+```
 src/
 │
 ├── data/
@@ -54,6 +55,7 @@ src/
 main.py
 streamlit.py
 requirements.txt
+```
 
 ## Technologies Used
 - **Streamlit**: For building the web application.
